@@ -1,1 +1,4 @@
 print("Test")
+a = 'test1'
+b = 'test2'
+c = 'test3'
