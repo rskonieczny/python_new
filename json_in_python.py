@@ -12,3 +12,4 @@ network_data = {
 with open('new_network_config.json' , 'w') as file :
     json.dump(network_data , file, indent=4)
 
+
